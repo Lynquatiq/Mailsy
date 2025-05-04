@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/BalliAsghar/Mailsy#readme",
   "dependencies": {
-    "axios": "^0.26.0",
+    "axios": "^0.30.0",
     "chalk": "^5.0.1",
     "commander": "^9.0.0",
     "inquirer": "^8.2.1",
@@ -36,6 +36,6 @@
     "ora": "^6.1.0"
   },
   "devDependencies": {
-    "vitest": "^0.23.2"
+    "vitest": "^3.1.2"
   }
 }
